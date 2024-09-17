@@ -78,7 +78,7 @@ Any of:
 Any of:
 - People identified with a code for [specialist dermatology referral](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Care%20Use/Specialist%20Dermatology%20Referral) 
 - People identified with a code for [specialist dermatology review](https://github.com/MomentumData/Momentum-Data-Codelists/tree/5558454c395b643b3a112a3bfd548cf58301cb2a/Care%20Use/Specialist%20Dermatology%20Review)
-- 
+
 ## Time off Work
 - People identified with a code for [a MED3 Certificate](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Care%20Use/MED3%20Certificate)
 
