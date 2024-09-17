@@ -12,17 +12,17 @@ All of the conditions and medication codes mentioned below will use diagnostic c
 2. **AND** no diagnosis code for an alternative depigmenting disorder or a [vitiligo diagnosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/228b1cae0eb4b324500fc3cf9e6e416751b4f731/Conditions/Vitiligo) **within six months of practice registration**.
 
 ### Alternative depigmenting disorders:
-- [Congenital and Genetic Hypomelanoses]()
+- [Congenital and Genetic Hypomelanoses](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Conditions/Congenital%20and%20Genetic%20Hypomelanoses%20v1)
 - Post-Inflammatory Hypomelanoses:
   - [Post inflammatory leukoderma including after atopic eczema or psoriasis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Post-inflammatory%20Hypopigmentation)
   - [Lichen Planus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Lichen%20Planus)
   - [Pityriasis Alba](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Pityriasis%20Alba)
   - [Lichen Sclerosus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Lichen%20Sclerosis)
-- [Post-Traumatic Leukoderma]()
+- [Post-Traumatic Leukoderma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Conditions/Post-traumatic%20Leucoderma)
 - [Para-Malignant Hypomelanoses](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Para-malignant%20Hypomelanoses)
 - Occupational/Drug Induced Hypomelanoses:
-  - [Occupational Vitiligo]()
-  - [Other Induced Hypomelanoses]()
+  - [Occupational Vitiligo](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Conditions/Occupational%20Vitiligo)
+  - [Other Induced Hypomelanoses](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Conditions/Other%20Induced%20Hypomelanoses%20v1)
 - Para-Infectious Hypopigmentation:
   - [Pityriasis versicolor (or tinea versicolor)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Pityriasis%20Versicolor)
 - Others:
