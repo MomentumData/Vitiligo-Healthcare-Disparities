@@ -20,8 +20,12 @@ All of the conditions and medication codes mentioned below will use diagnostic c
   - [Lichen Sclerosus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Lichen%20Sclerosis)
 - [Post-Traumatic Leukoderma]()
 - [Para-Malignant Hypomelanoses](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Para-malignant%20Hypomelanoses)
-- [Occupational/Drug Induced Hypomelanoses]()
-- [Pityriasis versicolor (or tinea versicolor)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Pityriasis%20Versicolor)
+- Occupational/Drug Induced Hypomelanoses:
+  - [Occupational Vitiligo]()
+  - [Other Induced Hypomelanoses]()
+- Para-Infectious Hypopigmentation:
+  - [Pityriasis versicolor (or tinea versicolor)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Pityriasis%20Versicolor)
+- Others:
 - [Melasma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Melasma)
 - [Morphoea](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Morphoea)
 - [Idiopathic Guttate Hypomelanosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Idiopathic%20Guttate%20Hypomelanoses)
