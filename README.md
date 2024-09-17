@@ -8,12 +8,16 @@ All the codelists utilised for data extraction underwent the rigorous quality co
 All of the conditions and medication codes mentioned below will use diagnostic codes recorded in primary care only. Using Read V2, Read CTV3 and SNOMED codes.
 
 ## Vitiligo case definition
-1. Any individual with a [vitiligo diagnosis code]().
-2. **AND** no diagnosis code for an alternative depigmenting disorder or a vitiligo diagnosis **within six months of practice registration**.
+1. Any individual with a [vitiligo diagnosis code](https://github.com/MomentumData/Momentum-Data-Codelists/tree/228b1cae0eb4b324500fc3cf9e6e416751b4f731/Conditions/Vitiligo).
+2. **AND** no diagnosis code for an alternative depigmenting disorder or a [vitiligo diagnosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/228b1cae0eb4b324500fc3cf9e6e416751b4f731/Conditions/Vitiligo) **within six months of practice registration**.
 
 ### Alternative depigmenting disorders:
 - [Congenital and Genetic Hypomelanoses]()
-- [Post-Inflammatory Hypomelanoses]()
+- Post-Inflammatory Hypomelanoses:
+  - [Post inflammatory leukoderma including after atopic eczema or psoriasis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Post-inflammatory%20Hypopigmentation)
+  - [Lichen Planus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Lichen%20Planus)
+  - [Pityriasis Alba](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Pityriasis%20Alba)
+  - [Lichen Sclerosus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Lichen%20Sclerosis)
 - [Post-Traumatic Leukoderma]()
 - [Para-Malignant Hypomelanoses]()
 - [Occupational/Drug Induced Hypomelanoses]()
