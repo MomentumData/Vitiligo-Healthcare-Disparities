@@ -40,7 +40,7 @@ Any of:
 - People identified with a diagnosis code for [depressive episode](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/Depressive%20Episodes) **AND** any coded depression treatment* after 365 days.
 
 ## Anxiety
-People identified with a diagnosis code for [anxiety episode](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/Anxiety%20Episode) **AND** within 6 months any coded anxiety treatment**.
+- People identified with a diagnosis code for [anxiety episode](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/Anxiety%20Episode) **AND** within 6 months any coded anxiety treatment**.
 
 *List of depression treatments:
 - [Selective Seratonin Reuptake Inhibitors (SSRIs)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Treatments/SSRIs%20(Selective%20Serotonin%20Reuptake%20Inhibitors))
@@ -58,13 +58,29 @@ People identified with a diagnosis code for [anxiety episode](https://github.com
 - [CBT](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Treatments/CBT%20(Cognitive%20Behaviour%20Therapy))
 
 ## Parasuicide/Suicide Attempts
+- People identified with a diagnosis code for [parasuicide](https://github.com/MomentumData/Momentum-Data-Codelists/tree/5558454c395b643b3a112a3bfd548cf58301cb2a/Conditions/Parasuicide).
+
+## Sleep Disturbance
+- People identified with a diagnosis code for [sleep disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Conditions/Sleep%20disturbance)
 
 ## Adjustment Disorder
+- People identified with a diagnosis code for [adjustment disorder](https://github.com/MomentumData/Momentum-Data-Codelists/tree/5558454c395b643b3a112a3bfd548cf58301cb2a/Conditions/Adjustment%20Disorder)
 
 ## Mental Health Referrals
+Any of:
+- People identified with a code for [counselling](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Treatments/Counselling)
+- People identified with a code for [cognitive behaviour therapy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Treatments/CBT%20(Cognitive%20Behaviour%20Therapy))
+- People identified with a code for [psychotherapy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Treatments/Psychotherapy)
+- People identified with a code for [psychiatry review](https://github.com/MomentumData/Momentum-Data-Codelists/tree/5558454c395b643b3a112a3bfd548cf58301cb2a/Care%20Use/Psychiatry%20Review)
+- People identified with a code for [IAPT (Improving Access to Psychological Therapies)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/5558454c395b643b3a112a3bfd548cf58301cb2a/Care%20Use/IAPT%20(Improving%20Access%20to%20Psychological%20Therapies))
 
 ## Dermatology Referrals
-
+Any of:
+- People identified with a code for [specialist dermatology referral](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Care%20Use/Specialist%20Dermatology%20Referral) 
+- People identified with a code for [specialist dermatology review](https://github.com/MomentumData/Momentum-Data-Codelists/tree/5558454c395b643b3a112a3bfd548cf58301cb2a/Care%20Use/Specialist%20Dermatology%20Review)
+- 
 ## Time off Work
+- People identified with a code for [a MED3 Certificate](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Care%20Use/MED3%20Certificate)
 
 ## Unemployment
+- People identified with a code for [unemployment](https://github.com/MomentumData/Momentum-Data-Codelists/tree/012658c49e400d47cb386286a19833c67cc09a4b/Conditions/Unemployment)
