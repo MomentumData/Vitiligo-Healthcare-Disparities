@@ -34,12 +34,12 @@ All of the conditions and medication codes mentioned below will use diagnostic c
 - [Nevus Depigmentosus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Nevus%20Depigmentosus)
 - [Cutaneous Sarcoidosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/1c1c290f6f76079f24a317ce31e3876d1c3b3702/Conditions/Cutaneous%20Sarcoidosis)
 
-### Depression
+## Depression
 Any of:
 - People identified with a diagnosis code for [recurrent depressive disorder](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/RDD%20(Recurrent%20Depressive%20Disorder)).
 - People identified with a diagnosis code for [depressive episode](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/Depressive%20Episodes) **AND** any coded depression treatment* after 365 days.
 
-### Anxiety
+## Anxiety
 People identified with a diagnosis code for [anxiety episode](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/Anxiety%20Episode) **AND** within 6 months any coded anxiety treatment**.
 
 *List of depression treatments:
